@@ -53,8 +53,13 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+* Training Data Set -> Employee Table
+  
+  ![WhatsApp Image 2024-08-10 at 13 31 42_eea8f8fc](https://github.com/user-attachments/assets/07a5432c-bc92-4655-add1-9f3e50af2e89)
 
+* Training data set -> Weather Table
 
+  ![WhatsApp Image 2024-08-10 at 09 18 47_fc744fd0](https://github.com/user-attachments/assets/e14de362-3339-46fa-ab9d-1a26f00dd186)
 
 ### PREPROCESSING
 ### Procedure:
@@ -75,6 +80,13 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+* Employee Table after adding new attribute ADDRESS:
+  
+  ![WhatsApp Image 2024-08-10 at 13 32 45_60bf8751](https://github.com/user-attachments/assets/4c584051-48b0-4398-8164-8f6c696dacc7)
+
+* Weather Table after adding new attribute CLIMATE:
+  
+  ![WhatsApp Image 2024-08-10 at 13 16 11_cb74bf72](https://github.com/user-attachments/assets/c3b2d4b8-bc18-4d12-bb1b-f32984bf8264)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +103,13 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+* Employee Table after removing attributes SALARY, GENDER:
+  
+  ![WhatsApp Image 2024-08-10 at 13 33 37_6e03c5b2](https://github.com/user-attachments/assets/83dd3350-07ec-48ba-9614-419ec14db109)
+
+* Weather Table after removing attributes WINDY, PLAY:
+  
+  ![WhatsApp Image 2024-08-10 at 13 25 36_159ef5cd](https://github.com/user-attachments/assets/d3c71583-7cba-472d-ae06-420380e45548)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +126,12 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+* Employee Table after Normalizing ID, EXP, PHONE:
+  
+  ![WhatsApp Image 2024-08-10 at 13 34 37_71b089d4](https://github.com/user-attachments/assets/90d6e19c-316b-4984-8393-27ea14c6d9b0)
+* Weather Table after Normalizing TEMPARATURE, HUMIDITY:
+  
+  ![WhatsApp Image 2024-08-10 at 13 30 57_fd2aa12a](https://github.com/user-attachments/assets/f3929a15-6c73-4305-b69e-6a09b001f1d1)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
